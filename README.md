@@ -12,7 +12,7 @@ This repository contains the Python code for calculating Wet Bulb Globe Temperat
 
 - **environment.txt**
   *A text file listing the main Python packages required and their versions to reproduce the computational environment needed to run the two files above.*
-  You can install these using `pip install -r environment.txt`.
+  *You can install these using `pip install -r environment.txt`.*
 
 ## Usage
 
