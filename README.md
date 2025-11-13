@@ -1,6 +1,6 @@
 # Calculating Globe Temperature
 
-This repository contains the Python code for calculating Wet Bulb Globe Temperature (WBGT), modified from the Cython code under the pyWBGT package (Kong & Huber, 2022; Liljegren et al., 2008). From this code, individual components of WBGT such as Globe Temperature can be calculated. A notebook showing the same is included.
+This repository contains the Python code for calculating Wet Bulb Globe Temperature (WBGT), modified from the Cython code under the pyWBGT package (Kong & Huber, 2022; Qinkong, 2022; Liljegren et al., 2008). From this code, individual components of WBGT such as Globe Temperature can be calculated. A notebook showing the same is included.
 
 ## Details of the files included
 
@@ -25,3 +25,10 @@ These scripts are designed for use with EURO-CORDEX NetCDF data, but given that 
 
 **Contact:**  
 For questions, please contact Riddhima Puri or open an issue on this repository.
+
+---
+
+**References**
+- Kong, Q., & Huber, M. (2022). Explicit calculations of wet-bulb globe temperature compared with approximations and why it matters for labor productivity. Earth’s Future, 10 (3). doi: 10.1029/2021EF002334
+- Liljegren, J. C., Carhart, R. A., Lawday, P., Tschopp, S., & Sharp, R. (2008). Modeling the wet bulb globe temperature using standard meteorological measurement. Journal of Occupational and Environmental Hygiene, 5 (10), 645–655. doi: 10.1080/15459620802310770
+- Qinkong. (2022). Explicit calculations of wet bulb globe temperature compared with approximations and why it matters for labor productivity (v1.0.0). Zenodo. doi: 10.5281/zenodo.5980536
