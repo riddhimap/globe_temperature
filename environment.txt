@@ -1,0 +1,12 @@
+Cartopy==0.24.1
+cftime==1.6.4.post1
+cordex==1.0.0
+dask==2025.1.0
+intake==0.7.0
+matplotlib==3.10.0
+nest-asyncio==1.6.0
+netCDF4==1.7.2
+pandas==2.2.3
+scipy==1.15.1
+xarray==2025.4.0
+xclim==0.57.0
