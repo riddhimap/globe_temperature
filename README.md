@@ -4,6 +4,7 @@ https://doi.org/10.5281/zenodo.17800947
 This repository contains the Python code for calculating Wet Bulb Globe Temperature (WBGT), modified from the Cython code under the pyWBGT package (Kong & Huber, 2022; Qinkong, 2022; Liljegren et al., 2008). From this code, individual components of WBGT such as Globe Temperature can be calculated. A notebook showing the same is included.
 
 **These scripts support the analysis done in Puri et al. (2026).**
+
 **Citation**: If you reuse the code, please cite 
  _Puri, R., Nam, C. C. W., & Bouwer, L. M. (2026). Rethinking infrastructure thermal exposure beyond air temperature: globe temperature from regional climate models. Environmental Research Letters, 21(12), 124006. https://doi.org/10.1088/1748-9326/ae7390_ 
  and 
