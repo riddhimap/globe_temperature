@@ -8,7 +8,7 @@ This repository contains the Python code for calculating Wet Bulb Globe Temperat
 **Citation**: If you reuse the code, please cite 
  _Puri, R., Nam, C. C. W., & Bouwer, L. M. (2026). Rethinking infrastructure thermal exposure beyond air temperature: globe temperature from regional climate models. Environmental Research Letters, 21(12), 124006. https://doi.org/10.1088/1748-9326/ae7390_ 
  and 
- _Riddhima Puri. (2025). Globe Temperature from Regional Climate Models. Zenodo. https://doi.org/10.5281/ZENODO.17800947_
+ _Riddhima Puri. (2025). Globe Temperature from Regional Climate Models. Zenodo. https://doi.org/10.5281/ZENODO.17800946_
 
 
 ## Details of the files included
@@ -44,3 +44,7 @@ For questions, please contact Riddhima Puri or open an issue on this repository.
 - Liljegren, J. C., Carhart, R. A., Lawday, P., Tschopp, S., & Sharp, R. (2008). Modeling the wet bulb globe temperature using standard meteorological measurement. Journal of Occupational and Environmental Hygiene, 5 (10), 645–655. doi: 10.1080/15459620802310770
 - Puri, R., Nam, C. C. W., & Bouwer, L. M. (2026). Rethinking infrastructure thermal exposure beyond air temperature: globe temperature from regional climate models. Environmental Research Letters, 21(12), 124006. doi: 10.1088/1748-9326/ae7390
 - Qinkong. (2022). Explicit calculations of wet bulb globe temperature compared with approximations and why it matters for labor productivity (v1.0.0). Zenodo. doi: 10.5281/zenodo.5980536
+
+---
+
+License: This repository contains code adapted from the pyWBGT package (Kong & Huber, 2022; Qinkong, 2022). To align with the licensing of the original project, this repository is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
