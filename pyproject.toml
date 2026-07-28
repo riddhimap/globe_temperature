@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "globe_temperature"
+version = "1.0.1"
+description = "Calculating Globe Temperature from Regional Climate Model Data"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Riddhima Puri" }
+]
+license = {file = "LICENSE"}
+
+dependencies = [
+    "xarray>=2025.1.0",
+    "xclim>=0.54.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "netCDF4>=1.6.0",
+    "cftime>=1.6.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
