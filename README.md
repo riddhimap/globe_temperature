@@ -24,6 +24,28 @@ Used as a backend for the notebook and other scripts.*
   *A text file listing the main Python packages required and their versions to reproduce the computational environment needed to run the two files above.*
   *You can install these using `pip install -r environment.txt`.*
 
+## Installation
+
+For installation:
+
+Option 1: Install from GitHub
+
+       pip install git+https://github.com/riddhimap/globe_temperature.git
+
+Option 2: Clone and install locally
+
+       git clone https://github.com/riddhimap/globe_temperature.git
+       cd globe_temperature
+       # editable install
+       pip install -e
+
+Then in Python
+
+       from globe_temperature import Tg_10mwind
+       # OR
+       # from globe_temperature.wbgt import Tg_10mwind
+       tg = Tg_10mwind(...)
+
 ## Usage
 
 - See `calculate_GT_example.ipynb` for a step-by-step example.
