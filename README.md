@@ -16,7 +16,7 @@ This repository contains the Python code for calculating Wet Bulb Globe Temperat
 - **calculate_GT_example.ipynb**  
   *A Jupyter notebook demonstrating how to calculate Globe Temperature (GT) using the `_wbgt.py` script and EURO-CORDEX data. It shows data loading, pre-processing, and the use of xclim.*
 
-- **_wbgt.py**  
+- **globe_temperature/wbgt.py**  
   *A Python module implementing the calculation of Wet Bulb Globe Temperature (WBGT), Globe Temperature (Tg), and Natural Wet Bulb Temperature (Tnwb), integrated with the xclim open-source library (Bourgault et al., 2023). It is modified from the open-source pyWBGT package (Kong and Huber, 2022; Qinkong, 2022), based on the original Liljegren et al. (2008) code.
 Used as a backend for the notebook and other scripts.*
 
