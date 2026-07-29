@@ -37,7 +37,7 @@ Option 2: Clone and install locally
        git clone https://github.com/riddhimap/globe_temperature.git
        cd globe_temperature
        # editable install
-       pip install -e
+       pip install -e .
 
 Then in Python
 
