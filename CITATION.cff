@@ -5,7 +5,7 @@ authors:
   given-names: "RIDDHIMA"
   orcid: "https://orcid.org/0009-0006-0793-3139"
 title: "globe_temperature"
-version: 1.0.0
+version: 1.0.2
 doi: 10.5281/zenodo.17800946
 date-released: 2025-12-03
 url: "https://github.com/riddhimap/globe_temperature"
